@@ -1,0 +1,9 @@
+.profile-body{
+    height: 84vh;
+  }
+
+  .profile-card{
+    margin-top: 40px;
+    width: 500px;
+    height: 400px;
+}
