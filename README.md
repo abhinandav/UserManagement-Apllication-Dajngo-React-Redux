@@ -58,5 +58,15 @@ end points
 ```bash
   http://localhost:3000/ - User Dashboard
   http://localhost:3000/admin/login/   -Admin dashboard
-``` 
-    
+```
+
+
+DEMO
+
+<img src="gitphotos/1.png">
+<img src="gitphotos/2.png">
+<img src="gitphotos/3.png">
+<img src="gitphotos/4.png">
+<img src="gitphotos/5.png">
+<img src="gitphotos/6.png">
+<img src="gitphotos/7.png">
